@@ -9,9 +9,10 @@
 5. npm install
 
 6. Usage
+
    npm start
 
-7. Features
+8. Features
   
     1. Authentication and Authorization
   
@@ -23,7 +24,7 @@
   
     5. Scalable and well-documented codebase
 
-8. Technology
+9. Technology
 
     1. I have used react.js to handle client side UI.
   
