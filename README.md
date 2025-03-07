@@ -1,35 +1,35 @@
-1.Installation
+1. Installation
 
-2.Install MongoDb Database
+2. Install MongoDb Database
 
-3.git clone https://github.com/narendravs/reactblogapp.git
-  cd reactblogapp
+3. git clone https://github.com/narendravs/reactblogapp.git
+   cd reactblogapp
 
-4.npm install
+4. npm install
 
-5.Usage
-  npm start
+5. Usage
+   npm start
 
-6.Features
+6. Features
   
-    1.Authentication and Authorization
+    1. Authentication and Authorization
   
-    2.Add, Update, Delete blog posts
+    2. Add, Update, Delete blog posts
   
-    3.Search and filter blogs with pagination
+    3. Search and filter blogs with pagination
   
-    4.Sending email
+    4. Sending email
   
-    5.Scalable and well-documented codebase
+    5. Scalable and well-documented codebase
 
-7.Technology
+7. Technology
 
-    1.I have used react.js to handle client side UI
+    1. I have used react.js to handle client side UI
   
-    2.Used axios. It is a promised-based HTTP client for JavaScript.
+    2. Used axios. It is a promised-based HTTP client for JavaScript.
   
-    3.For client side route management I have used react-router-dom
+    3. For client side route management I have used react-router-dom
     
-    4.react-toastify is used to show success/error message
+    4. react-toastify is used to show success/error message
     
-    5.react-bootstrap is used to show modal
+    5. react-bootstrap is used to show modal
