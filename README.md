@@ -2,9 +2,9 @@
 
 2. Install MongoDb Database
 
-3. git clone git@github.com:jahidhiron/raect-blog-app.git
+3. git clone https://github.com/narendravs/reactblogapp.git
 
-   cd raect-blog-app
+   cd reactblogapp
 
 4. npm install
 
