@@ -25,12 +25,12 @@
 
 8. Technology
 
-    1. I have used react.js to handle client side UI
+    1. I have used react.js to handle client side UI.
   
     2. Used axios. It is a promised-based HTTP client for JavaScript.
   
-    3. For client side route management I have used react-router-dom
+    3. For client side route management I have used react-router-dom.
     
-    4. react-toastify is used to show success/error message
+    4. react-toastify is used to show success/error message.
     
-    5. react-bootstrap is used to show modal
+    5. react-bootstrap is used to show modal.
