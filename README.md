@@ -3,14 +3,15 @@
 2. Install MongoDb Database
 
 3. git clone https://github.com/narendravs/reactblogapp.git
+
    cd reactblogapp
 
-4. npm install
+5. npm install
 
-5. Usage
+6. Usage
    npm start
 
-6. Features
+7. Features
   
     1. Authentication and Authorization
   
@@ -22,7 +23,7 @@
   
     5. Scalable and well-documented codebase
 
-7. Technology
+8. Technology
 
     1. I have used react.js to handle client side UI
   
